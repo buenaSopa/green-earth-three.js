@@ -1,10 +1,8 @@
 # green-earth-three.js
 
-15mins three.js in and out exploration
+## 15 mins three.js in and out exploration
+- https://earth-three-js.herokuapp.com/
 
-webstie: https://earth-three-js.herokuapp.com/
-
-Full three.js learning result
-
-website: http://www.rucapenlabs.com/
-website: https://rucapen.com/
+## Full three.js learning result
+- http://www.rucapenlabs.com/
+- https://rucapen.com/
